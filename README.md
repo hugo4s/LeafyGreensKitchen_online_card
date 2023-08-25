@@ -17,7 +17,7 @@ Program for personal use, with the purpose of self-promotion. <br/>
 
 <br>
 <p align="center">
-  <img alt="projeto DevLinks" src="" width="100%">
+  <img alt="projeto DevLinks" src="https://github.com/hugo4s/LeafyGreensKitchen_online_card/blob/main/Captura%20de%20ecr%C3%A3%202023-08-25%20190227.png" width="100%">
 </p>
 🚀 Tecnologias
 
