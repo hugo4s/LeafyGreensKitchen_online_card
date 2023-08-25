@@ -20,12 +20,9 @@ This project was developed with the following technologies:
 
 💻 Project
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+This project is a link aggregator to use as an online business card.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
+- [Access the finished project online here.https:](//hugo4s.github.io/LeafyGreensKitchen_online_card/)
 
 :memo: License
 
