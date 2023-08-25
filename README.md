@@ -22,7 +22,7 @@ This project was developed with the following technologies:
 
 This project is a link aggregator to use as an online business card.
 
-- [Access the finished project online here.https:](//hugo4s.github.io/LeafyGreensKitchen_online_card/)
+- [Access the finished project online here:](//hugo4s.github.io/LeafyGreensKitchen_online_card/)
 
 :memo: License
 
