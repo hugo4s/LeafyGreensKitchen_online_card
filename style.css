@@ -1,6 +1,6 @@
 
 body {
-    background: url(./ferramentas/12751ebfc11f762577d983b123756b84.jpg) no-repeat center/cover;
+    background: url(./Assets/12751ebfc11f762577d983b123756b84-transformed.jpeg) no-repeat center/cover;
     height: 100vh;
     overflow: hidden;
 }
@@ -73,6 +73,7 @@ footer {
     color: rgb(219, 232, 219);
     text-align: right;
     font-size: 14px;
+    padding-right: 50px;
 }
 footer a{
     color: rgb(239, 241, 239);
