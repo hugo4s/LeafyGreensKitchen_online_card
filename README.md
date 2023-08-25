@@ -5,13 +5,6 @@ Program for personal use, with the purpose of self-promotion. <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
@@ -19,15 +12,13 @@ Program for personal use, with the purpose of self-promotion. <br/>
 <p align="center">
   <img alt="projeto LeafyGreensKitchen" src="https://github.com/hugo4s/LeafyGreensKitchen_online_card/blob/main/Captura%20de%20ecr%C3%A3%202023-08-25%20190227.png" width="100%">
 </p>
-🚀 Tecnologias
+🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
+This project was developed with the following technologies:
+- HTML and CSS
 - Git e Github
-- Figma
 
-💻 Projeto
+💻 Project
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
@@ -36,10 +27,6 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 
-:memo: Licença
+:memo: License
 
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+This project is licensed under the MIT license.
